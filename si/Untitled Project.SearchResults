@@ -1,0 +1,3 @@
+---- ESP8266 Matches (2 in 1 files) ----
+DetectDevice.h (d:\work\arduino\arduinoameba\cayennemqtt-wisnode-master\src):        /* ESP8266 */
+DetectDevice.h (d:\work\arduino\arduinoameba\cayennemqtt-wisnode-master\src):        #define INFO_DEVICE  "ESP8266"
